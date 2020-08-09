@@ -8,7 +8,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/anhus(3).pdf" style="text-decoration:none;">Swine husbandry: A practical manual for the breeding, rearing and management of swine</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/anhus(4).pdf" style="text-decoration:none;">Bovine Medicine</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/anhus(5).pdf" style="text-decoration:none;">Dust in the Atmosphere of Mars and Its Impact on the Human Exploration of Mars</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/anhus(5).pdf" style="text-decoration:none;">Multiple choice question: veterinary science and animal husbandry</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/anhus(6).pdf" style="text-decoration:none;">Black's Veterinary Dictionary</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/anhus(7).pdf" style="text-decoration:none;">Veterinary Entomology: Livestock and Companion Animals</a></li>
 
@@ -44,7 +44,7 @@ in Organic Animal Husbandry: An interdisciplinary approach</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/anhus(23).pdf" style="text-decoration:none;">Animal Husbandry Regained</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/anhus(24).pdf" style="text-decoration:none;">Mars Underground</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/anhus(24).pdf" style="text-decoration:none;">Rapid Review of Small Exotic Animal Medicine and Husbandry</a></li>
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Animal-Husbandry-Books/blob/master/anhus(25).pdf" style="text-decoration:none;">Animal Husbandry II</a></li> 
